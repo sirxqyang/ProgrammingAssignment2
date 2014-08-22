@@ -1,3 +1,6 @@
+## Xiaoqin Yang    sirxqyang@gmail.com
+## 2014-08-22T17:13:13
+##
 ## this script was developed to cache potentially time-consuming
 ## computations for inverse of a matrix rather than computing it
 ## repeatedly.
